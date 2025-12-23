@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-project",
+  "version": "1.0.0",
+  "description": "This is for the npm project to create a restaurant menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6umm9/restaurant-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6umm9/restaurant-project/issues"
+  },
+  "homepage": "https://github.com/6umm9/restaurant-project#readme",
+  "devDependencies": {
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
